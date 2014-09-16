@@ -3,10 +3,10 @@
   "title": "Remember the link",
   "id": "jid0-IoUbfiSo647IqjVjhk6VB4A6AIE@jetpack",
   "description": "Remember the link is a place to save links, so you can tag share, and later search to find them later.",
-  "homepage": "http://rememberthelink.com/",
+  "homepage": "https://rememberthelink.com/",
   "icon": "data/rtl32.png",
   "icon64": "data/rtl64.png",
   "author": "Sigurd Gartmann",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.2"
 }
