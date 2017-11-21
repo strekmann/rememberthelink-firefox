@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Remember the link - Firefox extension",
+  "description": "Remember important sites by storing their links on rememberthelink.com",
+  "homepage_url": "https://rememberthelink.com",
+  "version": "2.0.1",
+  "permissions": [
+    "tabs"
+  ],
+  "icons": {
+      "256": "icons/rememberthelink-256.png",
+      "64": "icons/rememberthelink-64.png"
+  },
+  "background": {
+      "scripts": ["background.js"]
+  }
+}
