@@ -3,7 +3,6 @@ const PROTOCOLS = ["http:", "https:"];
 function hasGoodUrl(url) {
     var link = document.createElement('a');
     link.href = url;
-    console.log(link);
     return PROTOCOLS.includes(link.protocol) && link.hostname !== 'rememberthelink.com';
 }
 
